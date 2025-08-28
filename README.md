@@ -1,1 +1,3 @@
-# git-test
+# Git Test
+
+Start of relearning Git journey!
